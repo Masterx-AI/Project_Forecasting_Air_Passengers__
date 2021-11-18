@@ -1,6 +1,6 @@
 # AI/ML Project: Forecasting Air Passengers ✈️
 
-<p align="center"><img src="https://user-images.githubusercontent.com/54996245/142403353-587a270a-c00d-46fa-81cf-474c4b4bf28d.jpg" style="width: 1000px;"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54996245/142404359-8c4e3e8b-b791-4bde-b8d0-6bfb979ff2b6.png" style="width: 1000px;"/></p>
 
 ### Description:
 
