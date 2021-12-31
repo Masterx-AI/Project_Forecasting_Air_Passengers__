@@ -5,7 +5,7 @@
 ### Description:
 
 A simple yet challenging project, to forecast the volume of air passengers, based on monthly totals of a US airline passengers from 1949 to 1960.
-Can you overcome these obstacles & Forecast the future occupancies of the Airlines?
+Can you overcome the obstacles & Forecast the future occupancies of the Airlines?
 
 **This data frame contains the following columns:**
 
